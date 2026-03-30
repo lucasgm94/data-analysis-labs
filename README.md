@@ -14,12 +14,6 @@ The main goal of this space is to showcase end-to-end analytical solutions, with
 * **/power-bi-projects**: Contains `.pbix` files, datasets, and documentation for individual dashboards.
 * **README.md**: Overview of the laboratory.
 
-## 🚀 Featured Projects
-### [Project Name 1]
-* **Description:** Brief description of the problem solved.
-* **Key Skills:** DAX, Data Modeling, UI/UX for Dashboards.
-* **Insight:** One sentence about the main finding or impact.
-
 ## 📈 Tools & Technologies
 * **Power BI Desktop** (Data Visualization & Modeling)
 * **Power Query** (M Language for ETL)
