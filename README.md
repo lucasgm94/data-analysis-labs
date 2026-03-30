@@ -26,4 +26,4 @@ The main goal of this space is to showcase end-to-end analytical solutions, with
 * **Microsoft Excel** (Data Sourcing)
 
 ---
-*Created and maintained by [Your Name/lucasgm94]*
+*Created and maintained by Lucas Martinez*
