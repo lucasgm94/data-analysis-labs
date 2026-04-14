@@ -1,0 +1,1 @@
+select * from master_ecommerce limit 1
