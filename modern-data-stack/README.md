@@ -1,24 +1,56 @@
-# Data Analytics & Business Intelligence Portfolio
+# 📊 Modern Data Stack: Sales Analytics Dashboard
+### **Developed by Lucas Martinez** 🚀
 
-This repository is a collection of data analysis projects focused on transforming raw data into actionable insights. It serves as a personal laboratory for exploring data cleaning, modeling, and visualization techniques, ranging from traditional BI to the **Modern Data Stack**.
+This project demonstrates a full-spectrum Data Engineering and Analytics pipeline. It covers everything from raw data ingestion to a high-performance interactive dashboard, transforming scattered information into actionable business insights using modern tools.
 
 ---
 
-## 🛠 Project Overview
-The main goal of this space is to showcase end-to-end analytical solutions, with a strong focus on:
-* **Data Transformation:** ETL processes, data cleaning, and columnar processing.
-* **Business Intelligence:** Interactive dashboards, **BI-as-Code**, and data storytelling.
-* **Technical Stack:** Power BI, DuckDB, Supabase, and SQL.
+## 🏗️ Project Architecture
+
+The data workflow is organized into four main stages:
+
+1.  **Ingestion & Local Processing:** Leveraging **DuckDB** for high-performance SQL processing of raw files, consolidating them into a local analytical database.
+2.  **ETL Orchestration:** Python-based scripts for data cleaning, transformation, and normalization.
+3.  **Cloud Data Warehouse:** Processed data is synced to **Supabase (PostgreSQL)** to ensure cloud availability and scalability.
+4.  **Business Intelligence:** An interactive dashboard built with **Streamlit** and **Plotly**, featuring real-time metrics and dynamic filtering.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** Python 3.x
+* **OLAP Engine:** [DuckDB](https://duckdb.org/) (In-process analytical database).
+* **Cloud Database:** [Supabase](https://supabase.com/) (PostgreSQL).
+* **Visualization:** [Streamlit](https://streamlit.io/) & [Plotly](https://plotly.com/python/).
+* **Data Manipulation:** Pandas.
+* **Environment Management:** `python-dotenv` for secure credential handling.
+
+---
+
+## 🚀 Key Features
+
+* **Executive Metrics:** Instant visibility of Total Records, Total Sales, and Units Sold.
+* **Interactive Filtering:** Sidebar-controlled filters for **Region** and **Date Range**.
+* **Advanced Visuals:** * Dynamic bar charts with consistent regional color-coding.
+    * Donut charts showing percentage market share per region.
+* **Customer Rankings:** Automated Top 10 Customers list (Name, Last Name, and Revenue).
+* **Granular Data Access:** Full data table sorted by sales volume (Units).
+
+---
 
 ## 📂 Repository Structure
-* **/modern-stack-lab**: High-performance analytics using **Evidence + DuckDB + Supabase**.
-* **/power-bi-projects**: Contains `.pbix` files, datasets, and documentation for individual dashboards.
-* **README.md**: Overview of the laboratory.
 
-## 📈 Tools & Technologies
-* **Modern Stack:** [Evidence.dev](https://evidence.dev/) (BI-as-Code), [DuckDB](https://duckdb.org/) (OLAP engine), [Supabase](https://supabase.com/) (Cloud Postgres).
-* **Power BI Ecosystem:** Power BI Desktop (DAX & Modeling), Power Query (M Language).
-* **Databases & Languages:** PostgreSQL, SQL, Python, and Markdown.
+Based on the [Modern Data Stack] framework:
 
----
-**Created and maintained by [lucasgm94](https://github.com/lucasgm94)**
+```text
+modern-data-stack/
+├── duckdb/              # Local database storage (.db files)
+├── queries/             # SQL transformation scripts
+├── screenshots/         # Visual documentation of the dashboard
+├── scripts/             # Python ETL logic (Extraction, Transformation, Loading)
+├── sources/             # Raw data files (CSV, JSON, etc.)
+├── streamlit/           # Frontend dashboard code (app.py)
+├── supabase/            # Cloud configuration and schema logs
+├── .env                 # Environment variables (API Keys, DB URLs) - [HIDDEN]
+├── .gitignore           # Git exclusion rules
+└── requirements.txt     # Project dependencies
