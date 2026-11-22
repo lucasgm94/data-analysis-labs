@@ -1,0 +1,151 @@
+id_usuario,nombre,departamento,es_admin,mfa_activo,conflicto_sod,dias_ultima_revision
+USR-001,Usuario_1,Legal,False,False,False,24
+USR-002,Usuario_2,Finanzas,False,True,False,45
+USR-003,Usuario_3,TI,False,True,False,38
+USR-004,Usuario_4,TI,False,True,False,23
+USR-005,Usuario_5,Legal,False,True,False,79
+USR-006,Usuario_6,Finanzas,False,True,False,85
+USR-007,Usuario_7,Operaciones,False,True,False,14
+USR-008,Usuario_8,Finanzas,False,True,False,21
+USR-009,Usuario_9,TI,False,True,False,39
+USR-010,Usuario_10,Ventas,False,True,False,87
+USR-011,Usuario_11,Finanzas,False,True,False,81
+USR-012,Usuario_12,TI,False,True,False,79
+USR-013,Usuario_13,Operaciones,True,True,False,66
+USR-014,Usuario_14,Operaciones,True,True,False,160
+USR-015,Usuario_15,Recursos Humanos,False,True,False,10
+USR-016,Usuario_16,TI,True,True,False,118
+USR-017,Usuario_17,Recursos Humanos,False,True,False,45
+USR-018,Usuario_18,TI,False,True,False,37
+USR-019,Usuario_19,Recursos Humanos,False,True,False,23
+USR-020,Usuario_20,Finanzas,False,True,False,58
+USR-021,Usuario_21,Finanzas,False,True,False,55
+USR-022,Usuario_22,Recursos Humanos,False,False,False,87
+USR-023,Usuario_23,Recursos Humanos,False,True,False,15
+USR-024,Usuario_24,Legal,False,True,False,68
+USR-025,Usuario_25,Ventas,False,True,False,25
+USR-026,Usuario_26,Operaciones,False,True,False,20
+USR-027,Usuario_27,Ventas,False,True,False,47
+USR-028,Usuario_28,Legal,False,True,False,89
+USR-029,Usuario_29,Recursos Humanos,False,True,False,83
+USR-030,Usuario_30,TI,True,False,False,27
+USR-031,Usuario_31,Finanzas,False,True,True,39
+USR-032,Usuario_32,Recursos Humanos,False,True,False,20
+USR-033,Usuario_33,TI,False,True,False,22
+USR-034,Usuario_34,Operaciones,True,True,True,81
+USR-035,Usuario_35,Operaciones,False,True,False,56
+USR-036,Usuario_36,TI,True,True,False,104
+USR-037,Usuario_37,Recursos Humanos,False,True,False,36
+USR-038,Usuario_38,Legal,False,True,False,44
+USR-039,Usuario_39,Legal,False,True,False,19
+USR-040,Usuario_40,Ventas,False,True,False,31
+USR-041,Usuario_41,Ventas,False,True,False,41
+USR-042,Usuario_42,TI,False,True,False,69
+USR-043,Usuario_43,Operaciones,False,True,True,44
+USR-044,Usuario_44,Legal,True,True,False,152
+USR-045,Usuario_45,TI,False,True,False,51
+USR-046,Usuario_46,Finanzas,False,True,False,39
+USR-047,Usuario_47,Finanzas,False,True,True,50
+USR-048,Usuario_48,Operaciones,False,True,False,44
+USR-049,Usuario_49,Finanzas,False,True,False,37
+USR-050,Usuario_50,Ventas,False,True,False,50
+USR-051,Usuario_51,TI,False,True,False,73
+USR-052,Usuario_52,Operaciones,False,True,False,68
+USR-053,Usuario_53,TI,True,True,False,77
+USR-054,Usuario_54,TI,False,True,False,41
+USR-055,Usuario_55,Legal,False,True,False,81
+USR-056,Usuario_56,Ventas,False,True,False,43
+USR-057,Usuario_57,Legal,False,True,False,84
+USR-058,Usuario_58,Operaciones,False,False,False,84
+USR-059,Usuario_59,Operaciones,False,True,False,56
+USR-060,Usuario_60,TI,False,False,False,27
+USR-061,Usuario_61,Ventas,False,True,False,73
+USR-062,Usuario_62,Finanzas,False,True,True,16
+USR-063,Usuario_63,Finanzas,False,True,True,29
+USR-064,Usuario_64,Legal,False,True,False,30
+USR-065,Usuario_65,Legal,False,True,False,64
+USR-066,Usuario_66,Ventas,False,False,False,18
+USR-067,Usuario_67,Operaciones,False,True,False,58
+USR-068,Usuario_68,Ventas,False,True,False,69
+USR-069,Usuario_69,Ventas,False,True,False,42
+USR-070,Usuario_70,Ventas,False,True,False,11
+USR-071,Usuario_71,Legal,True,True,False,39
+USR-072,Usuario_72,Legal,False,True,False,78
+USR-073,Usuario_73,Recursos Humanos,True,True,False,174
+USR-074,Usuario_74,Recursos Humanos,False,True,False,24
+USR-075,Usuario_75,Recursos Humanos,False,True,False,65
+USR-076,Usuario_76,TI,False,True,False,68
+USR-077,Usuario_77,Finanzas,False,True,False,43
+USR-078,Usuario_78,Ventas,False,True,False,32
+USR-079,Usuario_79,Ventas,True,True,False,37
+USR-080,Usuario_80,Legal,False,True,False,48
+USR-081,Usuario_81,Legal,False,True,False,74
+USR-082,Usuario_82,Ventas,False,True,False,35
+USR-083,Usuario_83,TI,False,True,False,57
+USR-084,Usuario_84,TI,False,True,False,79
+USR-085,Usuario_85,Ventas,False,True,False,10
+USR-086,Usuario_86,Ventas,False,True,False,51
+USR-087,Usuario_87,Operaciones,False,True,False,12
+USR-088,Usuario_88,Finanzas,False,True,False,56
+USR-089,Usuario_89,Recursos Humanos,False,True,False,40
+USR-090,Usuario_90,Finanzas,True,True,False,71
+USR-091,Usuario_91,Ventas,True,True,False,30
+USR-092,Usuario_92,Finanzas,False,True,False,72
+USR-093,Usuario_93,Finanzas,False,True,False,78
+USR-094,Usuario_94,TI,False,True,False,26
+USR-095,Usuario_95,Legal,False,True,False,70
+USR-096,Usuario_96,Ventas,False,True,False,31
+USR-097,Usuario_97,Recursos Humanos,True,True,False,145
+USR-098,Usuario_98,Ventas,False,True,False,64
+USR-099,Usuario_99,TI,False,True,False,79
+USR-100,Usuario_100,Legal,False,True,False,35
+USR-101,Usuario_101,Legal,False,True,False,49
+USR-102,Usuario_102,Operaciones,False,True,False,57
+USR-103,Usuario_103,Operaciones,False,True,True,76
+USR-104,Usuario_104,Operaciones,False,True,False,25
+USR-105,Usuario_105,TI,False,True,False,38
+USR-106,Usuario_106,Finanzas,False,True,False,53
+USR-107,Usuario_107,Finanzas,False,False,False,85
+USR-108,Usuario_108,Ventas,False,True,False,39
+USR-109,Usuario_109,Ventas,False,True,False,38
+USR-110,Usuario_110,Finanzas,False,True,False,19
+USR-111,Usuario_111,Legal,False,True,False,90
+USR-112,Usuario_112,Finanzas,False,True,False,39
+USR-113,Usuario_113,Finanzas,False,True,False,14
+USR-114,Usuario_114,Recursos Humanos,False,True,False,19
+USR-115,Usuario_115,Ventas,False,True,False,40
+USR-116,Usuario_116,Recursos Humanos,False,True,False,72
+USR-117,Usuario_117,TI,False,True,False,79
+USR-118,Usuario_118,TI,False,True,False,83
+USR-119,Usuario_119,Ventas,False,True,False,70
+USR-120,Usuario_120,TI,False,True,False,70
+USR-121,Usuario_121,Operaciones,False,True,False,34
+USR-122,Usuario_122,Finanzas,False,True,True,22
+USR-123,Usuario_123,Legal,False,True,False,65
+USR-124,Usuario_124,Recursos Humanos,False,True,False,64
+USR-125,Usuario_125,Operaciones,False,True,True,69
+USR-126,Usuario_126,Legal,True,True,False,23
+USR-127,Usuario_127,Legal,False,True,False,22
+USR-128,Usuario_128,Finanzas,False,True,False,61
+USR-129,Usuario_129,Legal,False,True,False,53
+USR-130,Usuario_130,Finanzas,True,True,False,73
+USR-131,Usuario_131,TI,False,True,False,34
+USR-132,Usuario_132,Ventas,False,True,False,67
+USR-133,Usuario_133,TI,False,True,False,64
+USR-134,Usuario_134,TI,False,True,False,45
+USR-135,Usuario_135,Operaciones,True,True,False,73
+USR-136,Usuario_136,Finanzas,False,True,False,66
+USR-137,Usuario_137,Ventas,False,True,False,22
+USR-138,Usuario_138,Finanzas,False,True,False,79
+USR-139,Usuario_139,Finanzas,False,True,False,21
+USR-140,Usuario_140,TI,False,True,False,31
+USR-141,Usuario_141,Operaciones,False,True,False,72
+USR-142,Usuario_142,Operaciones,False,True,True,37
+USR-143,Usuario_143,Operaciones,True,True,True,25
+USR-144,Usuario_144,TI,False,True,False,58
+USR-145,Usuario_145,Finanzas,False,True,False,59
+USR-146,Usuario_146,Recursos Humanos,False,True,False,68
+USR-147,Usuario_147,Recursos Humanos,False,True,False,64
+USR-148,Usuario_148,Legal,False,True,False,81
+USR-149,Usuario_149,Legal,True,True,False,134
+USR-150,Usuario_150,TI,False,True,False,34
