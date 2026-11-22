@@ -16,7 +16,7 @@ An interactive Power BI dashboard built to analyze anime titles, popularity rank
 ## 🖼️ Preview
 | Dashboard View |
 | :---: |
-| ![Crunchyroll Dashboard](screenshots/crunchyroll-dashboard.png) |
+| ![Crunchyroll Dashboard](screenshots/01-crunchyroll-dashboard.png) |
 
 ---
 
